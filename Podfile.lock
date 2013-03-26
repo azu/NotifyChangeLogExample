@@ -1,0 +1,15 @@
+
+PODS:
+- NotifyChangeLog (0.0.1)
+
+DEPENDENCIES:
+- NotifyChangeLog (from `/Users/azu/Dropbox/workspace/iOS/project/notifyChangeLog/NotifyChangeLog.podspec')
+
+EXTERNAL SOURCES:
+  NotifyChangeLog:
+    :podspec: /Users/azu/Dropbox/workspace/iOS/project/notifyChangeLog/NotifyChangeLog.podspec
+
+SPEC CHECKSUMS:
+  NotifyChangeLog: d73b0302f06f87f60ca4737b467643277ac1cc80
+
+COCOAPODS: 0.16.4
