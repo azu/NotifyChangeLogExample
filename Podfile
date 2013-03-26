@@ -1,3 +1,3 @@
 platform :ios, '5.0'
 
-pod 'NotifyChangeLog', :podspec => "/Users/azu/Dropbox/workspace/iOS/project/notifyChangeLog/NotifyChangeLog.podspec"
+pod 'NotifyChangeLog', :podspec => "https://raw.github.com/azu/notify-changeLog/master/NotifyChangeLog.podspec"
